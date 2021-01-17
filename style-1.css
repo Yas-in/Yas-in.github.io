@@ -1,0 +1,60 @@
+.bi1, .bi2, .bi3{
+  margin-left: 0;
+}
+
+h2{
+  text-align: center;
+}
+
+section,aside,article{ 
+  margin: 20px;
+  padding: 30px;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+
+.bloc1{
+  margin: 50px;
+  
+}
+
+
+
+footer {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  background: white;
+  color: #020202;
+  padding: 2rem 0;
+  
+}
+
+.link{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  background: white;
+  color: #020202;
+  padding: 2rem 0;
+  text-align: center;
+  margin: 0px;
+  padding: 10px;
+}
+
+.année {
+
+  margin: 0px;
+  padding: 10px;
+  
+}
+
+.p1 {
+  font-style: bold;
+  text-align: center;
+}
